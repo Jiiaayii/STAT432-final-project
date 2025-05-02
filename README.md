@@ -5,9 +5,11 @@ This repository contains the full code and analysis for our STAT432 final projec
 ## 📁 Project Structure
 - `code/`: All scripts for data cleaning, EDA, modeling, and evaluation
 - `data/`: Summary of input dataset structure (raw data not included due to size/privacy)
-- `figures/`: Visualizations used in the report and slides
-- `results/`: Output metrics and prediction results
 - `README.md`: Project overview and instructions
+
+## 📂 Data Source
+The dataset was obtained from [Kaggle: Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset).
+
 
 ## 🧠 Methods Used
 - Logistic Regression (LASSO, Ridge)
